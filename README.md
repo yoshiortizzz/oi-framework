@@ -1,2 +1,2 @@
 # The Open Innovation Framework
-A new perspective for digital inclusion
+A new perspective on colaboration for digital inclusion
