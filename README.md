@@ -1,2 +1,2 @@
 # The Open Innovation Framework
-A new perspective on IT colaboration management to measure innovative startup ecosystems.
+An IT Colaboration Management guideline to measure innovation over startup ecosystems.
